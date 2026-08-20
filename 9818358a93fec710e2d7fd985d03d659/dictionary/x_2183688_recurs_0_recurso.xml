@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="982bf50293320b10e2d7fd985d03d67b" label="Recurso" max_length="40" name="x_2183688_recurs_0_recurso" type="collection">
+        <element label="Quantidade" max_length="40" name="quantidade" type="integer"/>
+        <element display="true" label="Item" mandatory="true" max_length="125" name="item" type="string"/>
+        <element label="Solicitante" mandatory="true" max_length="32" name="solicitante" reference="sys_user" type="reference"/>
+        <element label="Display name" max_length="300" name="display_name" read_only="true" read_only_option="display_read_only" type="string"/>
+        <element label="URL" max_length="1024" name="url" type="url"/>
+        <index name="index">
+            <element name="solicitante"/>
+        </index>
+    </element>
+</database>

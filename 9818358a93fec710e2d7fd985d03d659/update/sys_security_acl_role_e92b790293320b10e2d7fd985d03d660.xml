@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-08-20 20:10:52</sys_created_on>
+        <sys_id>e92b790293320b10e2d7fd985d03d660</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_2183688_recurs_0_recurso.x_2183688_recurs_0.admin</sys_name>
+        <sys_package display_value="Recursos de Evento" source="x_2183688_recurs_0">9818358a93fec710e2d7fd985d03d659</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Recursos de Evento">9818358a93fec710e2d7fd985d03d659</sys_scope>
+        <sys_security_acl display_value="x_2183688_recurs_0_recurso">2d2b790293320b10e2d7fd985d03d657</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_e92b790293320b10e2d7fd985d03d660</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-08-20 20:10:52</sys_updated_on>
+        <sys_user_role display_value="x_2183688_recurs_0.admin" name="x_2183688_recurs_0.admin">5c18358a93fec710e2d7fd985d03d68d</sys_user_role>
+    </sys_security_acl_role>
+</record_update>
